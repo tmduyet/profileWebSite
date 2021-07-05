@@ -163,7 +163,7 @@ img{
     cursor: pointer;
 }
 .nav__toggle:hover{
-    color: var(--first-color);
+    color: blue;
 } 
 
 @media screen and (max-width:767px) {
